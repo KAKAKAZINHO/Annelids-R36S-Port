@@ -1,7 +1,7 @@
 ========================================================================
                                 CRÉDITOS
 ========================================================================
-- Port para o R36S / Adaptação PortMaster: [Seu Nome ou Seu Nick]
+- Port para o R36S / Adaptação PortMaster: [Kelvine Ls]
 - Jogo Original e Direitos Autorais: Michal Srb (Annelids Creator)
 - Ferramentas de Compatibilidade: Comunidade PortMaster (fakeandroid/gptokeyb)
 ========================================================================
